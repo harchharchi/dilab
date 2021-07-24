@@ -16,21 +16,21 @@
     },
     {
       "id": 3,
-      "fullName": "Sebasatian Bach",
-      "email": "sb@ymail.com",
+      "fullName": "Nina Bach",
+      "email": "nb@ymail.com",
       "social": "",
-      "password": "123"
+      "password": "1Ap9kdjs"
     },
     {
-      "fullName": "x",
-      "email": "x@yahoo.com",
+      "fullName": "John Smith",
+      "email": "john@gmail.com",
       "id": 4,
-      "password": "x"
+      "password": "Abcd123!"
     },
     {
-      "fullName": "y",
-      "email": "y@y.com",
-      "password": "y",
+      "fullName": "Yana Jones",
+      "email": "yana@ymail.com",
+      "password": "poiu12&",
       "social": "w",
       "id": 5
     }
